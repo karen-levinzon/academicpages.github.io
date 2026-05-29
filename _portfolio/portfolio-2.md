@@ -14,7 +14,7 @@ The full code for this program is available as a PDF linked below. The first of 
 This is how the highlighted list in the PDF is used in my program.
 <br>
 
-<img src="https://github.com/user-attachments/assets/c94d5f62-b6c7-4cc2-ac53-8059e4c41704" width = "450"/>
+<img src="https://github.com/user-attachments/assets/c94d5f62-b6c7-4cc2-ac53-8059e4c41704" width = "500" height = "300"/>
 <br>
 <br>
 The following screenshots show my procedure and the algorithm inside it, going in order.
