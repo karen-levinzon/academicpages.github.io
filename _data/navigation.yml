@@ -9,7 +9,7 @@
 
 main:
   - title: "About Karen Levinzon!"
-    url: https://github.com/karen-levinzon/karen-levinzon.github.io/tree/master/_portfolio
+    url: https://github.com/karen-levinzon/karen-levinzon.github.io/blob/master/_pages/about.md
         
   - title: "Her Resume!"
     url: /year-archive/
